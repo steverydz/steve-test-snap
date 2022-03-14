@@ -1,0 +1,11 @@
+name: steve-test-snap
+base: core18
+version: "0.8"
+summary: The snap I use for testing
+description: |
+  This is the snap I use for development and testing
+grade: stable
+confinement: strict
+parts:
+  my-part:
+    plugin: nil

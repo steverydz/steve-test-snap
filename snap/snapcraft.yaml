@@ -1,7 +1,7 @@
 name: steve-test-snap
 title: steve-test-snap-title
 base: core18
-version: "2.0.0"
+version: "3.0.0"
 summary: The snap I use for testing
 description: |
   This is the snap I use for development and testing

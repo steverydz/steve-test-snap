@@ -4,7 +4,7 @@ title: steve-test-snap-title
 base: bare
 build-base: core22
 version: "5.0.4"
-summary: The snap I use for testing
+summary: The snap I use for testing and development
 description: |
   This is the snap I use for development and testing
 grade: stable

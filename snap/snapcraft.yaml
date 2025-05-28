@@ -3,7 +3,7 @@ title: steve-test-snap-title
 # base: core18
 base: bare
 build-base: core22
-version: "5.0.0"
+version: "5.0.4"
 summary: The snap I use for testing
 description: |
   This is the snap I use for development and testing

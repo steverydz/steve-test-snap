@@ -1,7 +1,10 @@
 name: steve-test-snap
 title: steve-test-snap-title
-# base: core18
-base: bare
+base: core24
+platforms:
+  amd64:
+  arm64:
+  armhf:
 build-base: core22
 version: "5.0.4"
 summary: The snap I use for testing and development
